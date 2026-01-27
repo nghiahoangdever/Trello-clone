@@ -1,9 +1,4 @@
 
-### About US:
-
-Nhóm 12
-Thành Viên: Hoàng Đại Nghĩa, Hà Văn Kiên
-
 # 🧩 App quản lí công việc bằng mô hình kéo thả 
 
 # ✨ Tính năng
