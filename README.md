@@ -1,13 +1,13 @@
 
-# 🧩 App quản lí công việc bằng mô hình kéo thả 
+# App quản lí công việc bằng mô hình kéo thả 
 
-# ✨ Tính năng
+# Tính năng
 
-- 📋 Tạo bảng (Board), danh sách (List) và thẻ (Card)
-- 🔄 Kéo thả thẻ giữa các danh sách (dnd-kit)
-- 🎨 Giao diện thân thiện, dễ làm quen với Material UI
-- ⚡ Tối ưu hiệu suất với Vite
-- 📁 Hỗ trợ lưu trữ công việc
+- Tạo bảng (Board), danh sách (List) và thẻ (Card)
+- Kéo thả thẻ giữa các danh sách (dnd-kit)
+- Giao diện thân thiện, dễ làm quen với Material UI
+- Tối ưu hiệu suất với Vite
+- Hỗ trợ lưu trữ công việc
 
 # Phiên bản
 * nodejs = 22.15.0
