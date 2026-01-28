@@ -21,3 +21,13 @@
 ```
 git clone https://github.com/nghiahoangdever/Trello-clone.git
 ```
+- Setup task management app-web(Frontend):
+```
+yarn install
+yarn dev
+```
+- Setup task management app-api(Backend):
+```
+yarn install
+yarn dev
+```
