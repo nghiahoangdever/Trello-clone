@@ -14,3 +14,10 @@
 * npm = v9.5.1
 * yarn = v1.22.22
 - Chi tiết các thư viện hơn xem trong 'package.json'
+
+# Cách cài đặt:
+
+- Tải repo dưới dạng zip hoặc clone về:
+```
+git clone https://github.com/nghiahoangdever/Trello-clone.git
+```
